@@ -1,0 +1,22 @@
+{
+    "it": {
+        "translation": "pl",
+        "counter": 0,
+        "block": 1
+    },
+    "ciao": {
+        "translation": "cześć",
+        "counter": 1,
+        "block": 0
+    },
+    "nome": {
+        "translation": "imię",
+        "counter": 1,
+        "block": 0
+    },
+    "mi chiamo": {
+        "translation": "nazywam się",
+        "counter": 1,
+        "block": 0
+    }
+}

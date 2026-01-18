@@ -1,0 +1,87 @@
+{
+    "it": {
+        "translation": "pl",
+        "counter": 0,
+        "block": 1
+    },
+    "ciao": {
+        "translation": "cześć",
+        "counter": 1,
+        "block": 0
+    },
+    "mi chiamo": {
+        "translation": "nazywam się",
+        "counter": 1,
+        "block": 0
+    },
+    "piacere di conoscerti": {
+        "translation": "miło cię poznać",
+        "counter": 1,
+        "block": 0
+    },
+    "come stai?": {
+        "translation": "jak się masz?",
+        "counter": 1,
+        "block": 0
+    },
+    "sto bene, grazie": {
+        "translation": "mam się dobrze, dziękuję",
+        "counter": 1,
+        "block": 0
+    },
+    "mi piace": {
+        "translation": "lubię",
+        "counter": 1,
+        "block": 0
+    },
+    "la pizza": {
+        "translation": "pizza",
+        "counter": 1,
+        "block": 0
+    },
+    "il caffè": {
+        "translation": "kawa",
+        "counter": 1,
+        "block": 0
+    },
+    "il tè": {
+        "translation": "herbata",
+        "counter": 1,
+        "block": 0
+    },
+    "e": {
+        "translation": "i",
+        "counter": 1,
+        "block": 0
+    },
+    "è": {
+        "translation": "jest",
+        "counter": 1,
+        "block": 0
+    },
+    "io prendo": {
+        "translation": "ja biorę",
+        "counter": 1,
+        "block": 0
+    },
+    "un cornetto": {
+        "translation": "rogalik",
+        "counter": 1,
+        "block": 0
+    },
+    "il conto, per favore": {
+        "translation": "rachunek, poproszę",
+        "counter": 1,
+        "block": 0
+    },
+    "faccio colazione": {
+        "translation": "jem śniadanie",
+        "counter": 1,
+        "block": 0
+    },
+    "alle sette": {
+        "translation": "o siódmej",
+        "counter": 1,
+        "block": 0
+    }
+}
